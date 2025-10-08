@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Nicholas
 
-<!--
-**devnicholasf/devnicholasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e em constante aprendizado no mundo da programação.
 
-Here are some ideas to get you started:
+💻 Tenho experiência com **Python**, atualmente estudando o framework **Django Web + REST API**, além de conhecimento em **HTML, CSS e JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Já concluí cursos e formações através da **Udemy**, **Fundação Bradesco** e outras plataformas, sempre buscando evoluir minhas habilidades como desenvolvedor.
+
+---
+
+### 🔧 Projeto em destaque:
+
+🗂️ Desenvolvi um **Formatador de Dados do Excel**, utilizado no meu trabalho na **Polícia Civil do Estado do Ceará**. O programa recebia dados copiados diretamente de planilhas e fazia a formatação automática das informações, otimizando tarefas repetitivas e aumentando a produtividade da equipe.
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+- Python
+- Django (em aprendizado)
+- HTML, CSS e JavaScript
+- Git & GitHub
+- Excel e automações de dados
+
+---
+
+### 📚 Certificações
+
+- Python do Zero ao Avançado com Projetos Reais - Udemy
+- Fundamentos da Programação - Fundação Bradesco
+- Programação Orientada a Objetos - Fundação Bradesco
+- Jornada Python - Hashtag Treinamentos
+- Django Web Framework e REST API (em aprendizado)
+
+---
+
+### 📌 Objetivos com o GitHub
+
+- Compartilhar meus projetos de aprendizado e uso prático
+- Criar um portfólio de projetos reais e estudos
+- Documentar minha evolução como desenvolvedor full stack
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](http://linkedin.com/in/nicholas-freitas-4746b9297)
+- Email: enicholassf@gmail.com
+
+---
+
+🧠 *"O aprendizado contínuo é o único caminho para o progresso."*
