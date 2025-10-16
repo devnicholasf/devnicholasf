@@ -2,7 +2,7 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e em constante aprendizado no mundo da programação.
 
-💻 Tenho experiência com **Python**, atualmente estudando o framework **Django Web + REST API**, além de conhecimento em **HTML, CSS e JavaScript**.
+💻 Tenho experiência com **Python**, atualmente estudando o framework **Django Web + REST API**, além de conhecimento em **HTML, CSS e JavaScript**. No momento estou criando um app em **React/Node.js** com **Tailwind CSS** utilizando IA.
 
 🧠 Já concluí cursos e formações através da **Udemy**, **Fundação Bradesco** e outras plataformas, sempre buscando evoluir minhas habilidades como desenvolvedor.
 
@@ -21,6 +21,8 @@
 - HTML, CSS e JavaScript
 - Git & GitHub
 - Excel e automações de dados
+- Desenvolvimento em React/Node.js com IA
+- Tailwind CSS
 
 ---
 
@@ -45,7 +47,7 @@
 ### 📫 Como me encontrar
 
 - [LinkedIn](http://linkedin.com/in/nicholas-freitas-4746b9297)
-- Email: enicholassf@gmail.com
+- enicholassf@gmail.com
 
 ---
 
