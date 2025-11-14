@@ -18,9 +18,10 @@
 
 - Python
 - Django (em aprendizado)
-- HTML, CSS e JavaScript
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
-- Excel e automações de dados
 - Desenvolvimento em React/Node.js com IA
 - Tailwind CSS
 
