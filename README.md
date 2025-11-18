@@ -41,8 +41,6 @@
 
 🚧 No momento, estou desenvolvendo um **aplicativo profissional de Agendamento** (React + Node.js + Tailwind + IA), onde aplico tudo o que venho aprendendo em projetos reais.
 
-🌱 Meu objetivo é evoluir como **desenvolvedor Front-End**, construindo aplicações reais e aplicando conceitos modernos enquanto continuo ampliando minha base técnica no ecossistema Python.
-
 </div>
 
 ---
