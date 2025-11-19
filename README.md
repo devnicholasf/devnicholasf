@@ -120,7 +120,7 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 
 <div style="border: 1px solid #2f2f2f; padding: 20px; border-radius: 12px; background-color: #0d1117;">
 
-## 📚 Certificações
+## 📚 Cursos e Certificações
 
 - Python do Zero ao Avançado – Udemy  
 - Fundamentos da Programação – Fundação Bradesco  
@@ -141,9 +141,8 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 ## 🎯 Objetivos com o GitHub
 
 - Criar um portfólio com projetos reais  
-- Evoluir como desenvolvedor back-end  
+- Evoluir como desenvolvedor Full Stack 
 - Trabalhar com IA aplicada ao desenvolvimento  
-- Construir aplicações completas com Django, React e Nuxt  
 
 </div>
 
