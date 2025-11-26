@@ -7,7 +7,7 @@
 
 # 👋 Olá! Eu sou o **Nicholas**
 
-### **Desenvolvedor Full Stack • Python • JavaScript • React/Node.js • Nuxt • IA**  
+### **Dev Júnior • Python • JavaScript • React/Node.js • Nuxt • IA**  
 📍 Fortaleza - CE  
 
 <br>
