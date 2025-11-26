@@ -105,12 +105,10 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-</div>
 
 ---
 
