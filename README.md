@@ -7,7 +7,7 @@
 
 # 👋 Olá! Eu sou o **Nicholas**
 
-### **Dev Júnior • Python • JavaScript • React/Node.js • Nuxt • IA**  
+### **Dev Júnior • Python • JavaScript • Tailwind CSS • Nuxt • AI Coding**  
 📍 Fortaleza - CE  
 
 <br>
