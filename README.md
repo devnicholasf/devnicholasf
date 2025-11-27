@@ -74,6 +74,22 @@
 ---
 
 <!-- ========================= -->
+<!--     CARD - ESTATÍSTICAS   -->
+<!-- ========================= -->
+
+<div style="border: 1px solid #2f2f2f; padding: 20px; border-radius: 12px; background-color: #0d1117;">
+
+## 🚀 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+<!-- ========================= -->
 <!--        CARD - PROJETO     -->
 <!-- ========================= -->
 
@@ -92,23 +108,6 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 > 📌 *Projeto privado devido ao uso institucional.*
 
 </div>
-
----
-
-<!-- ========================= -->
-<!--     CARD - ESTATÍSTICAS   -->
-<!-- ========================= -->
-
-<div style="border: 1px solid #2f2f2f; padding: 20px; border-radius: 12px; background-color: #0d1117;">
-
-## 🚀 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
 
 ---
 
