@@ -31,15 +31,14 @@
 - **React** (Hooks, componentização, rotas e consumo de APIs)
 - **JavaScript**
 - **Tailwind CSS**
+- **Nuxt**
 - **Boas práticas de UI/UX**
-
-🗂️ Também iniciei meus estudos em **Firebase**, entendendo autenticação, Firestore e integração com aplicações web.
 
 🧠 No Back-End, sigo estudando **Django e Django REST Framework**, avançando gradualmente para me tornar um desenvolvedor full-stack completo.
 
-📘 Paralelamente, estou estudando **Nuxt**, aplicando conceitos modernos de SSR/SSG e utilizando ferramentas de **IA** para acelerar o aprendizado e desenvolver interfaces mais eficientes e inteligentes.
+📘 Estou estudando **Nuxt**, aplicando conceitos modernos de SSR/SSG e utilizando ferramentas de **IA** para acelerar o aprendizado e desenvolver interfaces mais eficientes e inteligentes.
 
-🚧 No momento, estou desenvolvendo um **aplicativo profissional de Agendamento** (React + Node.js + Tailwind + IA), onde aplico tudo o que venho aprendendo em projetos reais.
+🚧 No momento, estou desenvolvendo um **aplicativo profissional de Agendamento** (Nuxt + IA), onde aplico tudo o que venho aprendendo em projetos reais.
 
 </div>
 
@@ -83,8 +82,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-xi-indol-18.vercel.app/api?username=devnicholasf&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-xi-indol-18.vercel.app/api/top-langs/?username=devnicholasf&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
