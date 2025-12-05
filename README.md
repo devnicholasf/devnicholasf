@@ -118,11 +118,11 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 
 ## 📚 Cursos e Certificações
 
+- Soluções de IA no GitHub - **Fundação Bradesco**
 - Python do Zero ao Avançado – **Udemy**  
 - Fundamentos da Programação – **Fundação Bradesco**  
 - Programação Orientada a Objetos – **Fundação Bradesco**  
 - Jornada Python – **Hashtag Treinamentos**
-- Soluções de IA no GitHub - **Fundação Bradesco**
 - Django Web & REST API – **Udemy** (em andamento)
 
 </div>
