@@ -5,7 +5,7 @@
 <div align="center">
 
 
-# **Olá**
+# **Nicholas Freitas**
 
 ### **Jr. Developer • Python • JavaScript • Tailwind CSS • Nuxt • AI Coding**  
 📍 Fortaleza - CE  
