@@ -106,7 +106,7 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 ### **Landing Page Criada com IA (Nuxt + Componentização)**
 Landing page desenvolvida durante um curso prático, construída **inteiramente com auxílio de IA**, utilizando:
 
-- Nuxt 3
+- Nuxt 4
 - Componentização avançada
 - Layout responsivo
 - Arquitetura moderna e limpa
