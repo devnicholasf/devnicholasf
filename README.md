@@ -5,7 +5,7 @@
 <div align="center">
 
 
-# **Nicholas Freitas**
+# **Olá**
 
 ### **Jr. Developer • Python • JavaScript • Tailwind CSS • Nuxt • AI Coding**  
 📍 Fortaleza - CE  
@@ -126,6 +126,7 @@ Landing page desenvolvida durante um curso prático, construída **inteiramente 
 ## 📚 Cursos e Certificações
 
 - Soluções de IA no GitHub - **Fundação Bradesco**
+- Componentização Extrema - **DATA7**
 - Python do Zero ao Avançado – **Udemy**  
 - Fundamentos da Programação – **Fundação Bradesco**  
 - Programação Orientada a Objetos – **Fundação Bradesco**  
