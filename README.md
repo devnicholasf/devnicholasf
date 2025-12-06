@@ -22,23 +22,20 @@
 
 <div style="border: 1px solid #2f2f2f; padding: 20px; border-radius: 12px; background-color: #0d1117;">
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho uma base sólida em **Python**, com cursos completos e certificações que fortaleceram meus fundamentos em lógica e boas práticas de programação.
+Sou formado em Análise e Desenvolvimento de Sistemas e possuo uma base sólida em Python, JavaScript e boas práticas de desenvolvimento.  
+Atualmente estou evoluindo como desenvolvedor **Full Stack**, estudando **Django** no back-end e **Nuxt** no front-end.
 
-💻 Atualmente estou focado em **desenvolvimento Front-End**, criando interfaces modernas, rápidas e responsivas utilizando:
+Trabalho com:
 
-- **React** (Hooks, componentização, rotas e consumo de APIs)
-- **JavaScript**
-- **Tailwind CSS**
-- **Nuxt**
-- **Boas práticas de UI/UX**
+- **Desenvolvimento Web** utilizando Nuxt, JavaScript e Tailwind CSS  
+- **Integração de APIs**, componentização e arquitetura modular  
+- **Princípios de UI/UX** para interfaces funcionais e intuitivas  
+- **Automação e produtividade**, aplicando IA em fluxos de trabalho reais
 
-🧠 No Back-End, sigo estudando **Django e Django REST Framework**, avançando gradualmente para me tornar um desenvolvedor full-stack completo.
+No momento estou desenvolvendo um **sistema profissional de agendamento (Nuxt + IA)**, aplicando SSR/SSG e ferramentas de inteligência artificial para criar interfaces mais rápidas, eficientes e inteligentes.
 
-📘 Estou estudando **Nuxt**, aplicando conceitos modernos de SSR/SSG e utilizando ferramentas de **IA** para acelerar o aprendizado e desenvolver interfaces mais eficientes e inteligentes.
-
-🚧 No momento, estou desenvolvendo um **aplicativo profissional de Agendamento** (Nuxt + IA), onde aplico tudo o que venho aprendendo em projetos reais.
 
 </div>
 
@@ -104,6 +101,18 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 
 > 📌 *Projeto privado devido ao uso institucional.*
 
+---
+
+### **Landing Page Criada com IA (Nuxt + Componentização)**
+Landing page desenvolvida durante um curso prático, construída **inteiramente com auxílio de IA**, utilizando:
+
+- Nuxt 3
+- Componentização avançada
+- Layout responsivo
+- Arquitetura moderna e limpa
+
+> 📌 *Link do projeto:* **[landpage-curso](https://github.com/devnicholasf/landpage-curso)**
+
 </div>
 
 ---
@@ -151,8 +160,8 @@ Ferramenta criada para a **Polícia Civil do Estado do Ceará**, automatizando f
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** https://linkedin.com/in/nicholas-freitas-4746b9297  
-- **E-mail:** enicholassf@gmail.com  
+- [**LinkedIn**](https://linkedin.com/in/nicholas-freitas-4746b9297)  
+- enicholassf@gmail.com  
 
 </div>
 
