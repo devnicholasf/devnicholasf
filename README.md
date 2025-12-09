@@ -89,7 +89,7 @@ No momento estou desenvolvendo um **sistema profissional de agendamento (Nuxt + 
 
 <div style="border: 1px solid #2f2f2f; padding: 20px; border-radius: 12px; background-color: #0d1117;">
 
-## 🗂️ Projeto em Destaque
+## 🗂️ Projetos em Destaque
 
 ### **Formatador de Dados do Excel**
 
