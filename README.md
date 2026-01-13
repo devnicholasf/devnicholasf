@@ -7,7 +7,7 @@
 
 # **Olá, eu sou o Nicholas**
 
-### **Jr. Developer • Python • JavaScript • Tailwind CSS • Nuxt • AI Coding**  
+### **Jr. Developer • Python • JavaScript • Tailwind CSS • Vue • Nuxt • AI Coding**  
 📍 Fortaleza - CE  
 
 <br>
