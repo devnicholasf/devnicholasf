@@ -164,8 +164,5 @@ Landing page moderna desenvolvida durante curso prático, utilizando IA como apo
 
 ---
 
-<div align="center">
-
-💡 *Sempre aprendendo, sempre construindo.*
 
 </div>
