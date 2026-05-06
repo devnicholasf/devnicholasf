@@ -67,9 +67,9 @@
 
 <p align="center">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=devnicholasf&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+<img width="54%" src="https://github-readme-stats-xi-indol-18.vercel.app/api?username=devnicholasf&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicholasf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=false" />
+<img width="41%" src="https://github-readme-stats-xi-indol-18.vercel.app/api/top-langs/?username=devnicholasf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=false" />
 
 </p>
 
