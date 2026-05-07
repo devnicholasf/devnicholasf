@@ -157,7 +157,7 @@ Landing page moderna desenvolvida durante curso prático, utilizando IA como apo
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/nicholas-freitas-4746b9297)
+- 💼 [LinkedIn](https://linkedin.com/in/nicholassf)
 - 📧 enicholassf@gmail.com
 
 </div>
