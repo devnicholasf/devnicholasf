@@ -24,7 +24,7 @@
 
 - Formado em **Análise e Desenvolvimento de Sistemas**
 - Base sólida em **Python, JavaScript, Vue e Nuxt**
-- Atualmente focado em desenvolvimento **Full Stack**
+- Atualmente focado em desenvolvimento **Front-end**
 - Interesse em **IA aplicada ao desenvolvimento**
 - Criando projetos reais para portfólio
 - Noções de **UI/UX** para interfaces funcionais e intuitivas
