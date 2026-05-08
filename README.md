@@ -6,7 +6,7 @@
 
 # Olá, eu sou o Nicholas 👋
 
-### Full Stack Developer em Evolução | Python • JavaScript • Vue • Nuxt • IA aplicada ao Desenvolvimento
+### Front-end Developer Junior
 
 📍 Fortaleza - CE
 
