@@ -23,7 +23,7 @@
 ## 🧑‍💻 Sobre mim
 
 - Formado em **Análise e Desenvolvimento de Sistemas**
-- Base sólida em **Python, JavaScript, Vue e Nuxt**
+- Base sólida em ** Vue, Nuxt, JavaScript e Python**
 - Atualmente focado em desenvolvimento **Front-end**
 - Interesse em **IA aplicada ao desenvolvimento**
 - Criando projetos reais para portfólio
